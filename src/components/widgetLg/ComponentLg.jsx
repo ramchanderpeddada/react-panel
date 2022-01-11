@@ -9,7 +9,7 @@ const ComponentLg = ({ name, date, amount, type }) => {
     <tr className="widgetLgTr">
       <td className="widgetLgUser">
         <img
-          src="https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU"
           alt=""
           className="widgetLgImg"
         />
