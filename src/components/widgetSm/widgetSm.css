@@ -27,13 +27,14 @@
 .widgetSmListItem{
     display: flex;
     align-items: center;
-    justify-content: space-between;
     margin: 20px 0px;
+    padding-left: 20px;
 }
 
 .widgetSmUser{
     display: flex;
     flex-direction: column;
+    padding-left: 20px;
 }
 
 .widgetSmUsername{

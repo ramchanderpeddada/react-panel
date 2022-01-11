@@ -11,15 +11,19 @@ export default function Topbar() {
         </div>
         <div className="topRight">
           <div className="topbarIconContainer">
-            <NotificationsNone />
+            <Settings />
           </div>
           <div className="topbarIconContainer">
             <Language />
           </div>
           <div className="topbarIconContainer">
-            <Settings />
+            <NotificationsNone />
           </div>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU" alt="" className="topAvatar" />
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU"
+            alt=""
+            className="topAvatar"
+          />
         </div>
       </div>
     </div>
