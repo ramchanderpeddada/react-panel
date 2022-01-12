@@ -1,6 +1,7 @@
 import React from "react";
 import "./topbar.css";
 import { NotificationsNone, Language, Settings } from "@material-ui/icons";
+import { Link } from "react-router-dom";
 
 export default function Topbar() {
   return (
@@ -10,6 +11,11 @@ export default function Topbar() {
           <span className="logo">Dashboard</span>
         </div>
         <div className="topRight">
+        <div className="topbarButtonContainer">
+          <Link to="/newUser">
+            <button className="userAddButton">Add User</button>
+          </Link>
+        </div>
           <div className="topbarIconContainer">
             <Settings />
           </div>
