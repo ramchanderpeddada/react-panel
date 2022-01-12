@@ -69,7 +69,7 @@ export const userData = [
       id: 1,
       username: "Name 1",
       avatar:
-        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU",
       email: "email@gmail.com",
       status: "active",
       transaction: "$3141.99",
@@ -78,7 +78,7 @@ export const userData = [
       id: 2,
       username: "Name 2",
       avatar:
-        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU",
       email: "email@gmail.com",
       status: "pending",
       transaction: "$223.87",
@@ -87,7 +87,7 @@ export const userData = [
       id: 3,
       username: "Name 3",
       avatar:
-        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU",
       email: "email@gmail.com",
       status: "pending",
       transaction: "$914.23",
@@ -96,7 +96,7 @@ export const userData = [
       id: 4,
       username: "Name 4",
       avatar:
-        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU",
       email: "email@gmail.com",
       status: "active",
       transaction: "$672.12",
@@ -105,7 +105,7 @@ export const userData = [
       id: 5,
       username: "Name 5",
       avatar:
-        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU",
       email: "email@gmail.com",
       status: "active",
       transaction: "$318.02",
@@ -114,7 +114,7 @@ export const userData = [
       id: 6,
       username: "Name 6",
       avatar:
-        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fFToRmfKO8medWPYhS_5D06SNyHQzyJB5g&usqp=CAU",
       email: "email@gmail.com",
       status: "pending",
       transaction: "$119.23",

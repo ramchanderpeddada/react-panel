@@ -16,6 +16,7 @@
 
 .featuredTitle{
     font-size: 20px;
+    color: green;
 }
 
 .featuredMoneyContainer{
@@ -43,6 +44,7 @@
 
 .featuredIcon.negative{
     color: red;
+    
 }
 
 .featuredSub{
