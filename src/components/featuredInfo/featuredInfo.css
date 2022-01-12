@@ -18,6 +18,9 @@
     font-size: 20px;
     color: green;
 }
+.featuredTitle.negative{
+    color: red;
+}
 
 .featuredMoneyContainer{
     margin: 10px 0px;
